@@ -13,7 +13,7 @@
 - card va modal to'g'ri ishlashi -- 20 ball
 - ma'lumotlar data.js faylidan kelishi kerak va hamma qismi dimamik bo'lishi -- 15 ball
 - companenta fayl nomlari va class nomlari to'g'ri nomlanishi  -- 15 ball
-- hech qanday warninglar chiqmasligi -- 5 ball
+- hech qanday warninglar chiqmasligi -- 10 ball
 - javoblar github faylida branch ochilib push qilinadi.Branch nomi examni qilgan talaba ismi yoziladi
 
   # Hammaga omad
