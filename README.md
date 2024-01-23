@@ -15,3 +15,5 @@
 - companenta fayl nomlari va class nomlari to'g'ri nomlanishi  -- 15 ball
 - hech qanday warninglar chiqmasligi -- 5 ball
 - javoblar github faylida branch ochilib push qilinadi.Branch nomi examni qilgan talaba ismi yoziladi
+
+  # Hammaga omad
